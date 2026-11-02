@@ -1,6 +1,6 @@
 # SWEST KICKS Website
 
-## Student Information
+Student Information
 Full Name: KINDEMBA SAMUELA IGEGEA LELO KAKA
 Student Number: ST10509012
 Module Code: WEDE5020
